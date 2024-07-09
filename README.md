@@ -2,6 +2,9 @@
 
 Welcome to the Dynamic Online Feedback System project for a training institute's courses.
 
+trello : https://trello.com/b/CP03Haop/feedback-system
+figma : https://www.figma.com/design/FtSOt5GIM9rqH4d4E6j67l/Project-4?node-id=0-1&t=fdJzFNOnKlGKxMSU-0
+
 ## Project Overview
 
 This project aims to create a dynamic feedback website using HTML, CSS, Bootstrap, JavaScript, and C#. The website will cater to both administrators and students, allowing administrators to manage feedback across multiple technologies and students to provide feedback based on their enrolled courses.
