@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange Academy\\Desktop\\FeedbackSystem\\Feedback System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C27E51CD-AD90-4F02-B14F-01AFC103678E}|Feedback System\\Feedback System.csproj|c:\\users\\orange academy\\desktop\\feedbacksystem\\feedback system\\feedback system\\studentfeedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C27E51CD-AD90-4F02-B14F-01AFC103678E}|Feedback System\\Feedback System.csproj|solutionrelative:feedback system\\studentfeedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27E51CD-AD90-4F02-B14F-01AFC103678E}|Feedback System\\Feedback System.csproj|c:\\users\\orange academy\\desktop\\feedbacksystem\\feedback system\\feedback system\\app_data\\student_list.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C27E51CD-AD90-4F02-B14F-01AFC103678E}|Feedback System\\Feedback System.csproj|solutionrelative:feedback system\\app_data\\student_list.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27E51CD-AD90-4F02-B14F-01AFC103678E}|Feedback System\\Feedback System.csproj|C:\\Users\\Orange Academy\\Desktop\\FeedbackSystem\\Feedback System\\feedback system\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C27E51CD-AD90-4F02-B14F-01AFC103678E}|Feedback System\\Feedback System.csproj|solutionrelative:feedback system\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27E51CD-AD90-4F02-B14F-01AFC103678E}|Feedback System\\Feedback System.csproj|c:\\users\\orange academy\\desktop\\feedbacksystem\\feedback system\\feedback system\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C27E51CD-AD90-4F02-B14F-01AFC103678E}|Feedback System\\Feedback System.csproj|solutionrelative:feedback system\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27E51CD-AD90-4F02-B14F-01AFC103678E}|Feedback System\\Feedback System.csproj|C:\\Users\\Orange Academy\\Desktop\\FeedbackSystem\\Feedback System\\feedback system\\welcomepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27E51CD-AD90-4F02-B14F-01AFC103678E}|Feedback System\\Feedback System.csproj|solutionrelative:feedback system\\welcomepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27E51CD-AD90-4F02-B14F-01AFC103678E}|Feedback System\\Feedback System.csproj|C:\\Users\\Orange Academy\\Desktop\\FeedbackSystem\\Feedback System\\feedback system\\welcomepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C27E51CD-AD90-4F02-B14F-01AFC103678E}|Feedback System\\Feedback System.csproj|solutionrelative:feedback system\\welcomepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentFeedback.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange Academy\\Desktop\\FeedbackSystem\\Feedback System\\Feedback System\\StudentFeedback.aspx",
+              "RelativeDocumentMoniker": "Feedback System\\StudentFeedback.aspx",
+              "ToolTip": "C:\\Users\\Orange Academy\\Desktop\\FeedbackSystem\\Feedback System\\Feedback System\\StudentFeedback.aspx",
+              "RelativeToolTip": "Feedback System\\StudentFeedback.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T19:53:31.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student_List.txt",
+              "DocumentMoniker": "C:\\Users\\Orange Academy\\Desktop\\FeedbackSystem\\Feedback System\\Feedback System\\App_Data\\Student_List.txt",
+              "RelativeDocumentMoniker": "Feedback System\\App_Data\\Student_List.txt",
+              "ToolTip": "C:\\Users\\Orange Academy\\Desktop\\FeedbackSystem\\Feedback System\\Feedback System\\App_Data\\Student_List.txt",
+              "RelativeToolTip": "Feedback System\\App_Data\\Student_List.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-09T19:51:24.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutUs.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange Academy\\Desktop\\FeedbackSystem\\Feedback System\\Feedback System\\AboutUs.aspx",
+              "RelativeDocumentMoniker": "Feedback System\\AboutUs.aspx",
+              "ToolTip": "C:\\Users\\Orange Academy\\Desktop\\FeedbackSystem\\Feedback System\\Feedback System\\AboutUs.aspx",
+              "RelativeToolTip": "Feedback System\\AboutUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T18:55:20.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange Academy\\Desktop\\FeedbackSystem\\Feedback System\\Feedback System\\HomePage.aspx",
+              "RelativeDocumentMoniker": "Feedback System\\HomePage.aspx",
+              "ToolTip": "C:\\Users\\Orange Academy\\Desktop\\FeedbackSystem\\Feedback System\\Feedback System\\HomePage.aspx",
+              "RelativeToolTip": "Feedback System\\HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T18:50:19.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WelcomePage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange Academy\\Desktop\\FeedbackSystem\\Feedback System\\Feedback System\\WelcomePage.aspx.cs",
+              "RelativeDocumentMoniker": "Feedback System\\WelcomePage.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange Academy\\Desktop\\FeedbackSystem\\Feedback System\\Feedback System\\WelcomePage.aspx.cs",
+              "RelativeToolTip": "Feedback System\\WelcomePage.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:49:39.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WelcomePage.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange Academy\\Desktop\\FeedbackSystem\\Feedback System\\Feedback System\\WelcomePage.aspx",
+              "RelativeDocumentMoniker": "Feedback System\\WelcomePage.aspx",
+              "ToolTip": "C:\\Users\\Orange Academy\\Desktop\\FeedbackSystem\\Feedback System\\Feedback System\\WelcomePage.aspx",
+              "RelativeToolTip": "Feedback System\\WelcomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T18:49:35.451Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
